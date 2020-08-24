@@ -1,0 +1,14 @@
+{
+    "api1":{
+        "consumer_key" :"pVF6tCKF2bf3d4lemROl4Kvig",
+        "consumer_secret" :"WmsmPETOJiq1TMEHeVN3O1mJHAsoOH7bSzlYYA8d1Yg0XKazdy",
+        "access_token_key" :"1174571429590777858-yoJ2Om0wGBFXw2grrwPQKWoGy5AMWa",
+        "access_token_secret" :"Gr2zP2tM29iJ91VoVw5PBP9zNNcbG3tYQO0cNIZfGRfYr"
+    },
+    "api2":{
+        "consumer_key" :"faSFs3dbCg4ESmwvdtKDB5vXB",
+        "consumer_secret" :"rypAJfsmTwHX4ppQpdgMOgDMMNcGTjijCsrh9G2hA3CAttuHF7",
+        "access_token_key" :"1174555805883912192-FXbUlJFYCWNBhw25HsaYpJR7XscZHk",
+        "access_token_secret" :"cj7j9AXfFFGnU34hQa9qtiYweu6K2A3hINjPCKHHCNGFs"
+    }
+}
